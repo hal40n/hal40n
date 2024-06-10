@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hal40n/hal40n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+<a href="https://github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal40n&layout=compact"> 
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hal40n)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hal40n)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hal40n">
+</a>
