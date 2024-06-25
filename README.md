@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+Mylink
+- [Blog](www.hal40n.com)
+
+<hr></hr>
+
 <a href="https://github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal40n&layout=compact"> 
 </a>
