@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 Mylink
-- [Blog](https://www.hal40n.com)
+- [Blog](https://hal40n.com)
 
 <hr></hr>
 
