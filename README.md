@@ -31,10 +31,10 @@ Manufacturing × Platform Engineering × Operations Research
 
 > Power Apps / Power Automate are core tools in my daily DX work.
 
+---
+
 ### 🌐 Links
 
 - 📝 Blog: https://hal40n.com
 
 ---
-
-> “Small, consistent improvements beat big, unstable changes.”
