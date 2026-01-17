@@ -1,26 +1,40 @@
-<!--
-**hal40n/hal40n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm hal40n
 
-Here are some ideas to get you started:
+Software Engineer / DX Enthusiast  
+Manufacturing × Platform Engineering × Operations Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-Mylink
-- [Blog](https://hal40n.com)
+---
 
-<hr></hr>
+### 🧠 About Me
 
-<a href="https://github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hal40n&layout=compact"> 
-</a>
+- 🏭 Software engineer working on **DX and internal systems in manufacturing**
+- 📊 Interested in **Operations Research**, especially optimization and simulation
 
-<a href="https://github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hal40n">
-</a>
+---
+
+### 🔧 Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
+</p>
+
+<p align="left">
+  <!-- Frameworks / Platforms -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,aws,github" />
+</p>
+
+<p align="left">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=notion,azure" />
+</p>
+
+> Power Apps / Power Automate are core tools in my daily DX work.
+
+### 🌐 Links
+
+- 📝 Blog: https://hal40n.com
+
+---
+
+> “Small, consistent improvements beat big, unstable changes.”
